@@ -1,0 +1,11 @@
+{
+    "Mods": [
+        {
+            "Name": "TestMod",
+            "Description": "TestMod",
+            "Version": "1.0.0",
+            "Author": "Charles Game Dev",
+            "GithubRepo": "https://github.com/CharlesGameDev/CharlesGameDev"
+        }
+    ]
+}
